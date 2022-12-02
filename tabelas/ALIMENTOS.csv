@@ -1,0 +1,19 @@
+ID_DO_ITEM;ALIMENTOS;UNIDADE;ESTOQUE;MARCA;SALDO_TOTAL
+1;Laranjas;KG;200;IndaFruit;R$ 600,99
+2;Maçãs;KG;150;Mfrural;R$ 298,50
+3;Bananas;KG;100;Mfrural;R$ 399,00
+4;Alface;KG;50;HortiFruit;R$ 114,50
+5;Tomates;KG;60;HortiFruit;R$ 209,40
+6;Abóbora;KG;50;Mfrural;R$ 75,00
+7;Aipo;KG;30;IndaFruit;R$ 59,70
+8;Pepino;KG;30;HortiFruit;R$ 68,70
+9;Frango;KG;100;Lebon;R$ 700,00
+10;Leite ;LT;300;Pia;R$ 1.197,00
+11;Queijo;KG;50;HortiFruit;R$ 499,50
+12;Ovos;QTD;200;Mfrural;R$ 700,00
+13;Queijo Cottage;KG;30;HortiFruit;R$ 116,70
+14;Coalhada;KG;20;IndaFruit;R$ 59,80
+15;Iogurte;LT;100;Pia;R$ 499,00
+16;Carne;KG;500;Friboi;R$ 3.995,00
+17;Salmão;KG;150;Swift;R$ 1.348,50
+18;Patas de caranguejo;QTD;40;IndaFruit;R$ 439,60

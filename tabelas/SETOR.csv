@@ -1,0 +1,19 @@
+ID_SETOR;SETORES;MARCA
+A;peixaria;IndaFruit
+S;frios;Mfrural
+D;carnes;Mfrural
+F;congelados;HortiFruit
+G;pre-assados;HortiFruit
+H;cozidos;Mfrural
+J;assados;IndaFruit
+K;fritos;HortiFruit
+L;temperados ;Lebon
+P;suprimentos;Pia
+O;sushi;HortiFruit
+I;enlatados;Mfrural
+U;rotisseria;HortiFruit
+Y;pescados;IndaFruit
+T;aves;Pia
+R;costelas;Friboi
+E;iscas;Swift
+W;frutas;IndaFruit

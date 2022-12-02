@@ -1,0 +1,19 @@
+ID_DO_ITEM;ALIMENTOS;ESTOQUE;CONDICOES
+1;Laranjas;200;BOA
+2;Maçãs;150;RUIM
+3;Bananas;100;RUIM
+4;Alface;50;BOA
+5;Tomates;60;BOA
+6;Abóbora;50;LAMENTÁVEL
+7;Aipo;30;ADEQUADA
+8;Pepino;30;ADEQUADA
+9;Frango;100;BOA
+10;Leite ;300;RUIM
+11;Queijo;50;BOA
+12;Ovos;200;ADEQUADA
+13;Queijo Cottage;30;RUIM
+14;Coalhada;20;ADEQUADA
+15;Iogurte;100;BOA
+16;Carne;500;BOA
+17;Salmão;150;ADEQUADA
+18;Patas de caranguejo;40;RUIM
